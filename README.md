@@ -7,3 +7,15 @@ Neural network models are a preferred method for developing statistical language
 # Data source:
 
 We will use The Republic by Plato as the source text that we can found it by using https://www.gutenberg.org/cache/epub/1497/pg1497.txt. But in this file, we will remove the front and back matter. This includes details about the book at the beginning, a long analysis, and license information at the end. 
+
+
+## models that used:
+
+LSTM Model
+
+GRU Model
+
+BI-Directional LSTM Model
+
+BI-Directional GRU Model
+
